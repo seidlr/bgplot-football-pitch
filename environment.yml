@@ -1,0 +1,9 @@
+name: bqplot
+channels:
+  - conda-forge
+dependencies:
+  - bqplot=0.11.2
+  - ipykernel
+  - scikit-learn
+  - scipy
+  - numpy
