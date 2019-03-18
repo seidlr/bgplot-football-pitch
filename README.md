@@ -1,10 +1,10 @@
 # bqplot
 
 # A simple football pitch
-A simple interactive football pitch with `bgplot`. 
+A simple interactive football pitch with `bqplot`. 
 
 ## Open in Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/seidlr/bgplot-football-pitch/master?filepath=Pitch.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/seidlr/bqplot-football-pitch/master?filepath=Pitch.ipynb)
 
 ## Installation
 To run the example notebook, first create a `conda` environment.
